@@ -4,7 +4,7 @@ A machine learning project based on the famous Titanic dataset. The objective is
 
 ## 📊 Dataset
 
-- **Source:** [Kaggle Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)
+- **Source:** Kaggle
 - **Files:**
   - `train.csv`: Training data with labels (Survived or Not)
   - `test.csv`: Test data without labels
